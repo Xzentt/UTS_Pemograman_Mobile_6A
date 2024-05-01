@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    tools:context=".SecondActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="NIK" />
+
+            <TextView
+                android:id="@+id/tvNik"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Nama Lengkap" />
+
+            <TextView
+                android:id="@+id/tvNama"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Tanggal Lahir" />
+
+            <TextView
+                android:id="@+id/tvTglLahir"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Tempat Lahir" />
+
+            <TextView
+                android:id="@+id/tvTptLahir"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Alamat" />
+
+            <TextView
+                android:id="@+id/tvAlamat"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Usia" />
+
+            <TextView
+                android:id="@+id/tvUsia"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Jenis Kelamin" />
+
+            <TextView
+                android:id="@+id/tvJk"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Kewarganegaraan" />
+
+            <TextView
+                android:id="@+id/tvStatus"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Bidang Kompetensi" />
+
+            <TextView
+                android:id="@+id/tvKompetensi"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="20dp" />
+
+        <TableRow>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:text="Email" />
+
+            <TextView
+                android:id="@+id/tvEmail"
+                android:layout_width="0dp"
+                android:layout_weight="1" />
+
+        </TableRow>
+
+    </TableLayout>
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnBack"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Kembali" />
+
+    </LinearLayout>
+
+</LinearLayout>
