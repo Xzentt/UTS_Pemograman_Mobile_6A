@@ -8,9 +8,10 @@ Mata Kuliah : Pemograman Mobile
 Proyek ini merupakan salah satu penilaian dalam ujian tengah semester pada mata kuliah pemograman mobile. 
 Aplikasi ini digunakan untuk menyimpan data pribadi pengguna yang dalam pengembangannya menggunakan bahasa pemograman android java.
 
-# Berikut Gallery Project 
-![gambar 1](https://github.com/Xzentt/UTS_Pemograman_Mobile_6A/assets/138210813/a11a7969-6e3d-4681-83ee-8dda8f368ab5)
-![gambar 2](https://github.com/Xzentt/UTS_Pemograman_Mobile_6A/assets/138210813/597edaa2-1b42-4829-b81b-083c42794072)
+# Gallery Project 
+![jeje 3](https://github.com/Xzentt/UTS_Pemograman_Mobile_6A/assets/138210813/5983fada-b26c-44cf-9e14-b9ecf74d550a)
+![jeje 4](https://github.com/Xzentt/UTS_Pemograman_Mobile_6A/assets/138210813/64fad367-bf0d-4228-a0ed-763a29ea6ccf)
+![jeje 2](https://github.com/Xzentt/UTS_Pemograman_Mobile_6A/assets/138210813/090f5339-93cb-4bd1-9fb4-5c329daa5019)
 
 
 
