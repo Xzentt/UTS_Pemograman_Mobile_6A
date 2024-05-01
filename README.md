@@ -1,10 +1,10 @@
-* Created By
+# Created By
 Nama : Sunniyah Jehan Lathifah
 Kelas : 6A
 NIM : 21083000065
 Mata Kuliah : Pemograman Mobile
 
-* Deskripsi :
+# Deskripsi :
 Proyek ini merupakan salah satu penilaian dalam ujian tengah semester pada mata kuliah pemograman mobile. 
 Aplikasi ini digunakan untuk menyimpan data pribadi pengguna yang dalam pengembangannya menggunakan bahasa pemograman android java.
 
